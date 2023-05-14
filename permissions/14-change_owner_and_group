@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 996 vincent staff
+sudo chown vincent staff
