@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 0722 ls-l
+chmod 0733 ls-l
