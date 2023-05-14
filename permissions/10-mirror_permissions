@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 0754 olleh
+chmod 0154 olleh
