@@ -1,5 +1,5 @@
 #!/bin/bash
-file="input"
+file="$1"
 git add .
-git commit -m "input"
+git commit -m file
 git push
