@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#make "best school" ten times but make the 9th display hi
+i=0
+while [ $i -le 9 ]
+do
+   if [ $i -eq 9 ]
+   then
+      echo "hi"
+      fi
+      echo "Best School"
+      ((i++))
+done
