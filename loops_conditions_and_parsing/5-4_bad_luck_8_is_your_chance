@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # looping best school ten times but there differnet text on the 4th and 8th line
+i=1
 while [ $i -le 10 ]
 do
      if [ $i -eq 4 ];
