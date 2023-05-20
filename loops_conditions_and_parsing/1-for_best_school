@@ -2,5 +2,5 @@
 # displaying "best school" 10 times
  for _ in {0..9}
        do
-       echo "Best school"
+       echo "Best School"
        done
