@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 #creating a file /var/run/myscript.pid containing the script PID, display "to infinity and beyond"indefinitely, display " i hate the kill command" when using SIGTERM command, display the "Y U no love me ?!" when using the SIGINT, deletes the file "/var/run/myscript.pid" when using either SIGQUIT or SIGTERM signal.
 
 termminator(){
