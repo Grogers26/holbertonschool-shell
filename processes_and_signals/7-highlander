@@ -1,4 +1,4 @@
-#!/usr/bin/env  bash
+#!/usr/bin/env bash
 # display to infinty and beyond as well as uses trap
 while true;
   do echo "To infinity and beyond";
